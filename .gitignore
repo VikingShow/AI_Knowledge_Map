@@ -1,0 +1,36 @@
+# Java & Maven
+/AI_Smart_Course/target/
+/AI_Smart_Course/.idea/
+/AI_Smart_Course/.classpath
+/AI_Smart_Course/.project
+/AI_Smart_Course/.settings/
+*.iml
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# VSCode
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Node.js & 前端
+/AI_Smart_Course_front/node_modules/
+/AI_Smart_Course_front/dist/
+/AI_Smart_Course_front/.env.local
+/AI_Smart_Course_front/.env.*.local
+
+# 环境配置
+AI_Smart_Course/src/main/resources/application-dev.properties
+
+# 其他
+*.swp
+*.swo 
